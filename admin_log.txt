@@ -1,0 +1,5 @@
+[2025-12-05 21:07:10] Modified student roll 1: name 'shiva' -> 'shiv', marks 100.00 -> 99.90 by admin
+[2025-12-05 21:07:45] Deleted student: Roll 1, Name shiv by admin
+[2025-12-05 21:08:07] Added student: Roll 12, Name shakthi, Marks 100.00 by admin
+[2025-12-05 21:09:56] Marked attendance for a class by admin
+[2025-12-05 21:10:03] Exported student records to CSV by admin
